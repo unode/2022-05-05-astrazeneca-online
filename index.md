@@ -79,6 +79,10 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
+<p>
+<span class="badge" style="background-color: darkred;">This course is restricted to AstraZeneca personnel</span>
+</p>
+
 {% comment %}
 INTRODUCTION
 
